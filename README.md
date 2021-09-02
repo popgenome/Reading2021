@@ -32,4 +32,3 @@
     * Cancer genomics
 8. Final exam
     * Personal presentation
-    * Take-home survey
