@@ -32,3 +32,7 @@
     * Cancer genomics
 8. Final exam
     * Personal presentation
+
+# Appendix
+1. Course Q & A, https://docs.qq.com/sheet/DRnZ1ZUpaWklZREdG?tab=zcloyz
+2. Peer grading, https://docs.qq.com/sheet/DRlVqR29OQkREYU1K
