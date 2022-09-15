@@ -1,5 +1,5 @@
 # Scientific Reading in 2021 Fall Semester
-*Scientific Reading and Presentation is* to read, understand, and present scientific publications. It teaches graduate students a fundamental skill in **scientific literature navigation and review**, which serves as the basis in their future research life.
+*Scientific Reading and Presentation* is to read, understand, and present scientific publications. It teaches graduate students a fundamental skill in **scientific literature navigation and review**, which serves as the basis in their future research life.
 
 # Contents
 1. Introduction
